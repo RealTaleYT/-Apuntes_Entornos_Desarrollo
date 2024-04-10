@@ -1,4 +1,5 @@
 	Capítulo 0: Introducción a entornos de desarrollo.
+		Capitulo0/contenido.txt
 	Capítulo 1: Repositorios de Código
 	Empezando teoría código
 	Capítulo 2: UML
